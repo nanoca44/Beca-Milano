@@ -1,0 +1,117 @@
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f5f7fa;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+section {
+    background: #fff;
+    max-width: 700px;
+    margin: 30px auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    padding: 25px 30px;
+    transition: box-shadow 0.3s ease;
+}
+
+h2 {
+    color: #222;
+    margin-bottom: 15px;
+    font-size: 30px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+h1 {
+    display: block;
+    font-size: 40px;
+    margin-bottom: 0%;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f5f7fa;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    display: block;
+    object-fit: cover;
+    user-select: none;
+    }
+
+.card-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid #ffb1e1;
+    object-fit: cover;
+    margin-bottom: 20px;
+    filter: drop-shadow(0 0 4px rgba(255,107,107,0.5));
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.card-photo {
+    width: 120px;
+    height: 120px;
+}
+.card-photo:hover {
+    transform: scale(1.05) rotate(3deg);
+}
+
+.bolo {
+    margin: auto;
+}
+
+ul, ol {
+    padding-left: 25px;
+    margin-bottom: 25px;
+}
+
+ul li, ol li {
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+
+a {
+    color: #ffb1e1
+    text-decoration: none;
+}
+
+
+a {
+    color: #ff009d;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 15pt;
+    display: block;
+    margin-top: 0px;
+}
+
+# .video {
+#    display: flex;
+#   justify-content: center; /* centraliza na horizontal */
+#}
